@@ -1,0 +1,39 @@
+.login{
+    background-color: rgb(127, 206, 255);
+    height: 100vh;
+  }
+  .login-section{
+      text-align: center;
+      width: fit-content;
+      padding: 24px;
+      position: absolute;
+      left: 35%;
+      top: 129px;
+  }
+  .font-clr{
+    color: white;
+  }
+  .login-Btn{
+    background-color: #54aee5;
+    width:28%;
+  }
+  .errorMsg{
+    color: red;
+    font-size: 12px;
+  }
+  
+  table{
+    background: #bacfdd;
+    border-collapse: initial !important;
+    padding: 4%;
+  
+  }
+  
+  head{
+    display: inline !important;
+    position: relative;
+    left: 100%;
+  }
+  
+  
+  
